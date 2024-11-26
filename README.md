@@ -41,3 +41,5 @@ Desarrollar estrategias dirigidas a provincias con menor participación para imp
 ### Fortalecer los modelos líderes:
 Las automotrices deberían capitalizar el éxito de los modelos más registrados y explorar versiones o complementos que amplíen su oferta.
 
+Link del Dashboard: https://public.tableau.com/app/profile/ang.lica.santamar.a/viz/automotor/Dashboard1
+
