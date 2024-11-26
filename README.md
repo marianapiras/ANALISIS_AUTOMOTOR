@@ -6,7 +6,7 @@ Limpieza y transformación de datos: Se normalizaron los registros eliminando va
 Visualización de datos: Se desarrolló un dashboard interactivo en Tableau, que incluye gráficos clave para explorar marcas, modelos, distribución geográfica y tendencias temporales.
 
 ## Componentes del Dashboard
-## Top Marcas:
+### Top Marcas:
 Toyota lidera con 294,951 registros, seguida por Volkswagen (148,253) y Renault (111,136).
 Estas tres marcas dominan el mercado, representando una gran parte de los registros totales.
 Chevrolet y Peugeot también se encuentran dentro del top 5, con un desempeño considerablemente menor.
@@ -21,23 +21,23 @@ Se observa un patrón estacional en los registros, con picos destacados en dicie
 Las caídas en ciertos meses (e.g., febrero) podrían estar asociadas a factores estacionales o económicos, como recesos vacacionales o períodos de menor actividad económica.
 
 ## Conclusiones
-## Dominancia de Toyota:
+### Dominancia de Toyota:
 Toyota no solo lidera en términos de marcas, sino que también coloca múltiples modelos en el top, consolidándose como líder indiscutible del mercado automotor argentino.
 Su presencia en segmentos como el de sedanes (Etios) y pickups (Hilux) muestra su versatilidad y amplio alcance.
-## Tendencias estacionales:
+### Tendencias estacionales:
 Los picos recurrentes en diciembre pueden atribuirse a promociones de fin de año, cierre de ejercicios fiscales o descuentos ofrecidos por las automotrices.
 Estos patrones pueden ser útiles para diseñar estrategias de marketing y ventas en el sector.
-## Distribución geográfica:
+### Distribución geográfica:
 Las provincias con mayor actividad automotriz coinciden con los principales centros urbanos y económicos del país.
 En contraste, las provincias con menor actividad pueden requerir incentivos o estrategias específicas para estimular el mercado automotor.
 ## Preferencia por modelos compactos:
 Modelos como el Cronos Drive y el Etios lideran el mercado, destacándose por su relación precio-calidad y eficiencia, características valoradas por el consumidor argentino.
 
 ## Recomendaciones
-# Estrategias de marketing personalizadas:
+### Estrategias de marketing personalizadas:
 Enfocarse en los picos estacionales identificados para maximizar las ventas en meses de alto registro.
-# Segmentación regional:
+### Segmentación regional:
 Desarrollar estrategias dirigidas a provincias con menor participación para impulsar las ventas.
-# Fortalecer los modelos líderes:
+### Fortalecer los modelos líderes:
 Las automotrices deberían capitalizar el éxito de los modelos más registrados y explorar versiones o complementos que amplíen su oferta.
 
